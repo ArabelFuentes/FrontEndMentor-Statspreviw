@@ -52,7 +52,7 @@ body{
     height: 14.7rem;
     background-color: var(--Soft-violet);
     border-radius: .5rem .5rem 0 0;
-    opacity: 60%;
+    opacity: .52;
 }
 
 .main .title span{
